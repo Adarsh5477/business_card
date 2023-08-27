@@ -4,10 +4,10 @@
 -- ds.page: Business Card
 
 
--- front.front: John Doe
+-- front.front: Adarsh
 title: Software Developer
 company: John Doe Pvt. Ltd.
-logo: $assets.files.assets.logo.svg
+logo: $assets.files.assets.dummy_logo.jpg
 contact-1: +91 12345 99999
 contact-2: +91 12345 88888
 website-1: john@johndoe.com
