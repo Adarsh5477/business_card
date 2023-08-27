@@ -15,9 +15,8 @@ width.fixed.px: 700
 height.fixed.px: 350
 background.solid: $inherited.colors.background.base
 spacing: space-around
-border-width.px: 1
-border-color: $inherited.colors.border
-
+border-width.px: 10
+border-color: white
 -- ftd.column:
 width.fixed.percent: 50
 padding-vertical.px: 40
